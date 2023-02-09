@@ -1,0 +1,5 @@
+-- SELECT employees_DB AS employees_DB
+-- FROM 
+-- LEFT JOIN 
+-- ON reviews.movie_id = movies.id
+-- ORDER BY movies.movie_name;

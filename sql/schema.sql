@@ -27,6 +27,7 @@ CREATE TABLE employee (
   PRIMARY KEY (id)
 );
 
+SELECT DATABASE ();
 
 
 
